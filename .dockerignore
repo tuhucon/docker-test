@@ -1,0 +1,9 @@
+.git
+.idea
+build
+.out
+.DS_Store
+.gitignore
+.Dockerfile
+.dockerignore
+README.md
